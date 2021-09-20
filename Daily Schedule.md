@@ -1,7 +1,7 @@
 # 2021
 ## September
 ### 9.20
-+ Hegelian **Science of the logic** $54 - 60
++ Hegelian **Science of the logic** $54 - 60 ✓
 + read **Learning vimscript the hard way** to 22th session 
 + **pomology**  -- a book
 

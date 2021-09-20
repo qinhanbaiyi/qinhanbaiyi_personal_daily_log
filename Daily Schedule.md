@@ -1,9 +1,15 @@
 # 2021
 ## September
+### 9.20
++ Hegelian **Science of the logic** $54 - 60
++ read **Learning vimscript the hard way** to 22th session 
++ **pomology**  -- a book
+
+
 ### 9.19
 + Hegelian **Science of the logic** $54 - 60
   + read it at dorm   
-+ read **Learing vimscript the hard way** to 13th session
++ read **Learning vimscript the hard way** to 13th session
   - finish
 + **pomology**  -- a book
   - undo

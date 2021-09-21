@@ -1,9 +1,9 @@
 # 2021
 ## September
 ### 9.21
-+ Hegelian **Science of the logic**
-+  read **Learning vimscript the hard way** to 22th session
-+  草坪学作业---学习通
++ Hegelian **Science of the logic** $61 - 68 ✓
++  read **Learning vimscript the hard way** to 22th session ✓
++  草坪学作业---学习通 ✓
 
 ### 9.20
 + Hegelian **Science of the logic** $54 - 60 ✓ awesome! i accomplete it perfectly.

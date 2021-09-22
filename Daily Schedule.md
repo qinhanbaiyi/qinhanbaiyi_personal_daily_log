@@ -2,7 +2,7 @@
 ## September
 ### 9.22
 + Hegelian **Science of the logic** $69 - 75
-+  read **Learning vimscript the hard way** to 40th session 
++  read **Learning vimscript the hard way** to 40th session ✓
 +  写一篇文稿 i.e. 请党放心，强国有我主题，400 字
 
 ### 9.21

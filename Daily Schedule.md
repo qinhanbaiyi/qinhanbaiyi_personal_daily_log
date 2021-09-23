@@ -1,5 +1,10 @@
 # 2021
 ## September
+### 9.23
++ 理解如何使用 vim plugin 的一般过程
++ Hegelian **Science of the logic** $69 - 75
++ translation of chinese to english: one course.
+
 ### 9.22
 + Hegelian **Science of the logic** $69 - 75
 +  read **Learning vimscript the hard way** to 40th session ✓

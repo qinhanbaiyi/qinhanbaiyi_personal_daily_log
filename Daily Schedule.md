@@ -1,8 +1,8 @@
 # 2021
 ## September
 ### 9.24
-+ 理解如何使用 vim plugin 的一般过程
-+ Hegelian **Science of the logic** $74 - 80
++ 理解如何使用 vim plugin 的一般过程 ✓
++ Hegelian **Science of the logic** $74 - 80 ✓
 
 ### 9.23
 + 理解如何使用 vim plugin 的一般过程

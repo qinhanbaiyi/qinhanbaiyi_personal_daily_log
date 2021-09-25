@@ -2,7 +2,7 @@
 ## September
 + kown the usage of git
 + Hegelian **Science of the logic** $79 - 83
-+ try to finish the congif of 
++ try to finish the congif of Vim
 
 ### 9.24
 + 理解如何使用 vim plugin 的一般过程 ✓

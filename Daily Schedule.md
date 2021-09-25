@@ -1,5 +1,6 @@
 # 2021
 ## September
+交800教材费
 ### 9.25
 + kown the usage of git ✓
 + Hegelian **Science of the logic** $79 - 83

@@ -1,6 +1,6 @@
 # 2021
 ## September
-+ kown the usage of git
++ kown the usage of git ✓
 + Hegelian **Science of the logic** $79 - 83
 + try to finish the congif of Vim
 

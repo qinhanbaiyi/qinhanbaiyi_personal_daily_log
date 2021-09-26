@@ -1,6 +1,9 @@
 # 2021
 ## September
-交800教材费
+### 9.26
++ 交800教材费
++ nvim配置文档
+
 ### 9.25
 + kown the usage of git ✓
 + Hegelian **Science of the logic** $79 - 83

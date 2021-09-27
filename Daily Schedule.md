@@ -1,5 +1,10 @@
 # 2021
 ## September
+### 9.27
++ read the cookbook of vimscript
++ finish the summary of the usage of git as markdown filetype
++ read lacanian philosophy
+
 ### 9.26
 + 交800教材费
 + nvim配置文档

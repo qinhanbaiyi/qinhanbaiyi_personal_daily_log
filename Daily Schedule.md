@@ -1,5 +1,15 @@
 # 2021
 ## September
+### 10.06
++ outline of coding
++ be freedom
++ git config
+### 10.05
++ making outline for future
++ looking awry
++ prompt the finish of daily schedule
++ consider how to improve the capability of coding
+
 ### 9.27
 + read the cookbook of vimscript
 + finish the summary of the usage of git as markdown filetype
@@ -34,7 +44,7 @@
 +  草坪学作业---学习通 ✓
 
 ### 9.20
-+ Hegelian **Science of the logic** $54 - 60 ✓ awesome! i accomplete it perfectly.
++ Hegelian **Science of the logic** $54 - 60 ✓ awesome! I complete it perfectly.
 + read **Learning vimscript the hard way** to 22th session 
 + **pomology**  -- a book ,sorry i just use little time in the regulation, hence, i read it until the latest two chapters.
 

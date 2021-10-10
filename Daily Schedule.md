@@ -1,9 +1,16 @@
 # 2021
 ## September
+### 10.10
+| nvim
+| arch
+| Lacan philosophy
+### 10.07
+
 ### 10.06
 + outline of coding
 + be freedom
 + git config
+
 ### 10.05
 + making outline for future
 + looking awry

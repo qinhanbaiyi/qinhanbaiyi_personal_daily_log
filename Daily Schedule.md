@@ -1,9 +1,11 @@
 # 2021
 ## September
+### 10.11
++ lsp.config
++ nvim-cmp
+
 ### 10.10
-| nvim
-| arch
-| Lacan philosophy
+| nvim| arch| Lacan philosophy |
 ### 10.07
 
 ### 10.06

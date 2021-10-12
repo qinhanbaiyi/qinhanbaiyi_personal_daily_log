@@ -1,5 +1,10 @@
 # 2021
 ## September
+### 10.12
++ lsp.config
++ nvim-cmp
++ daily translation
+
 ### 10.11
 + lsp.config
 + nvim-cmp

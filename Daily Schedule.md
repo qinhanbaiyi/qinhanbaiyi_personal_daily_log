@@ -1,4 +1,4 @@
-# Daily routines
+# Routines
 + Daily translation
 + Daily reading aloud
 + Daily coding/ reading in LeeCode

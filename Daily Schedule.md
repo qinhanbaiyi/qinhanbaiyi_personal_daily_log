@@ -1,5 +1,23 @@
+# Daily routines
++ Daily translation
++ Daily reading aloud
++ Daily coding/ reading in LeeCode
+
+
 # 2021
 ## September
+### 10.15
++ review algorithms and data structure in python
++ review the usage of re in python
++ Daily translation
+
+### 10.14
++ lazygit and git 
++ algorithms and data structure in python, 20 sessions
++ the usage of re in python
++ Organs without Bodies, to 100th pages
++ Hegelian the Science of logic, to 228th Pages
+
 ### 10.12
 + lsp.config
 + nvim-cmp

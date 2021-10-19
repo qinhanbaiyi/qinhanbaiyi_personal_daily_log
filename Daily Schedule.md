@@ -6,6 +6,11 @@
 
 # 2021
 ## September
+### 10.19
++ download DNA files
++ find a good article to translating
++ be more cozy while facing doctor Sun
+
 ### 10.15
 + review algorithms and data structure in python
 + review the usage of re in python

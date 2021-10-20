@@ -6,6 +6,14 @@
 
 # 2021
 ## September
+### 10.20
++ download DNA files
++ lsp.config
++ markdown_preview
++ python: data structure and algorithms at least 15 lessons
++ read aloud for the science of logic
++ search a little of quizes for python excises
+
 ### 10.19
 + download DNA files
 + find a good article to translating

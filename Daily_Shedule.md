@@ -7,12 +7,12 @@
 # 2021
 ## September
 ### 10.20
-+ download DNA files
++ download DNA files  finished
 + lsp.config
-+ markdown_preview
-+ python: data structure and algorithms at least 15 lessons
-+ read aloud for the science of logic
-+ search a little of quizes for python excises
++ markdown_preview  --i forget to copy config file to my init.lua
++ python: data structure and algorithms at least 15 lessons -- 5 lessons finished at study region 
++ read aloud for the science of logic  -- current do 
++ search a little of quizes for python excises  -- unfinished
 
 ### 10.19
 + download DNA files

@@ -6,6 +6,10 @@
 
 # 2021
 ## September
+### 10.22
++ kiwifruit experiment
++ python algorithms
+
 ### 10.20
 + download DNA files  finished
 + lsp.config
